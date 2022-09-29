@@ -10,6 +10,9 @@
 
 - 📫 How to reach me **syed.rayyanadil@gmail.com**
 
+- 🌱 I’m currently learning AWS, Node.
+- 🔭 I’m currently working on Microservices, CLean Code Architecture.
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
