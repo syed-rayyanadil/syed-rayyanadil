@@ -9,7 +9,7 @@
 - 💬 Ask me about **Software Engineering and Data**
 
 - 🔭 I’m currently **working on Microservices, Clean Code Architecture.**
-- 🌱 I’m currently learning **AWS, Node.**
+- 🌱 I’m currently learning **AWS, Node.js.**
 - 📫 How to reach me **syed.rayyanadil@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
