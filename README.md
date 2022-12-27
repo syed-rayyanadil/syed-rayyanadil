@@ -54,7 +54,9 @@
 
 ## 📌 GitHub Stats
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=syed-rayyanadil&&theme=xcode)](https://github.com/syed-rayyanadil)
+<!-- [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=syed-rayyanadil&&theme=xcode)](https://github.com/syed-rayyanadil) -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=syed-rayyanadil&theme=xcode)]([https://github.com/ashutosh00710/github-readme-activity-graph](https://github.com/syed-rayyanadil))
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syed-rayyanadil&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="syed-rayyanadil" /></p>
 
